@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/main.xml","javaFiles":["com.android.example.github.ui.search.SearchFragmentDirections","com.android.example.github.ui.repo.RepoFragmentDirections","com.android.example.github.ui.repo.RepoFragmentArgs","com.android.example.github.ui.user.UserFragmentDirections","com.android.example.github.ui.user.UserFragmentArgs"]}]

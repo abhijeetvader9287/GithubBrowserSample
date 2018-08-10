@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/search_fragment.xml",
+        "source": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/src/main/res/layout/search_fragment.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/loading_state.xml",
+        "source": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/src/main/res/layout/loading_state.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/repo_fragment.xml",
+        "source": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/src/main/res/layout/repo_fragment.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/contributor_item.xml",
+        "source": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/src/main/res/layout/contributor_item.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/repo_item.xml",
+        "source": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/src/main/res/layout/repo_item.xml"
+    },
+    {
+        "merged": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/user_fragment.xml",
+        "source": "/home/abhijeet/git/POCs/achitecture components pocs/GithubBrowserSample/app/src/main/res/layout/user_fragment.xml"
+    }
+]
